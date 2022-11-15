@@ -1,0 +1,2 @@
+Note regarding Dockerfile:
+Dockefile should not have any extensions.
